@@ -6,3 +6,7 @@ If you are on Linux or MacOS (Not tested) just run this command in the root of t
 ````bash
 bash Compile.sh
 ````
+After that, an '.out' will be created, then you need to run.
+````bash
+./Test.out
+````
