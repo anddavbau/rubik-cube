@@ -61,3 +61,9 @@ void print_rubik(Rubik this){
         printf("\n");
     }
 }
+
+//El nombre de los movientos y dirección son los mismos que se utilizan para lecturas del cubo de rubik.
+//Referencia https://4.bp.blogspot.com/-c20lpxkzL1E/UeeSEqlwIbI/AAAAAAAAZjA/gQqWVa569b4/s1600/Movimientos3x3x3.jpg
+
+void move_R(Rubik this){}
+void move_RP(Rubik this){}
